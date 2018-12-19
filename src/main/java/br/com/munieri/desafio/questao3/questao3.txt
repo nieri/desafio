@@ -1,0 +1,8 @@
+3 - São apenas tipos de componentes executados em servidores Web:
+A - Beans, Servlets e J2EE.
+B - JVM, Servlets e JSP.
+C - Beans, Servlets e JSP.
+D - Beans, Swing e JSP.
+E - Beans, Swing e JVM.
+
+resposta - B

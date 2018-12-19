@@ -1,0 +1,7 @@
+6 - No Spring, as configurações de segurança são realizadas no arquivo
+applicationContext-security.xml, e, para que qualquer página ou diretório seja seguro, é
+necessário adicionar a esse arquivo o elemento <intercept-url>.
+C - Certo
+E - Errado
+
+resposta - CERTO

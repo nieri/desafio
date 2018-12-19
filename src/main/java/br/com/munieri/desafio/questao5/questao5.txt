@@ -1,0 +1,16 @@
+5 - Spring Framework é uma plataforma Java completa que fornece suporte de
+infraestrutura para o desenvolvimento de aplicações Java. Acerca das características do
+framework Spring 3.0, assinale a opção correta.
+A - Na arquitetura Spring MVC Web, o Validator é uma classe opcional que pode ser
+invocada para validar dados de formulários.
+B - A injeção de dependência é feita após a criação do objeto, por meio dos métodos set
+de uma classe no estilo JavaBean, e não no momento da criação do objeto, tendo-se em
+vista que passar muitos argumentos no construtor pode tornar-se dispendioso.
+C - A interface BeanFactory gerencia beans definidos em arquivos XML e trata recursos
+de mensagens.
+D - O controlador AbstractWizardFormController, do módulo Spring MVC, permite
+suporte para o preenchimento de formulários a partir de determinada solicitação.
+E - A porta de entrada do navegador web para a arquitetura Spring MVC Web é a
+componente Interface (JSP/HTML).
+
+resposta - C

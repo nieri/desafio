@@ -1,0 +1,15 @@
+4 - Analise os itens a seguir sobre JEE e EJB.
+I. Um servidor J2EE fornece contêineres EJB e Web.
+II. O contêiner EJB gerencia a execução de EJBs em aplicações J2EE.
+III. O contêiner Web gerencia a execução de páginas JSP e componentes servlet em
+aplicações J2EE.
+IV. Um session bean representa um único cliente dentro do servidor J2EE. Para acessar
+um aplicativo que é instalado no servidor, o cliente invoca os métodos do session bean.
+Está correto o que se afirma em:
+A - I, II, III e IV.
+B - I e II, apenas.
+C - I, III e IV, apenas.
+D - I e IV, apenas.
+E - III e IV, apenas.
+
+resposta - B

@@ -1,0 +1,10 @@
+2 - Um programador web foi contratado para desenvolver um site utilizando HTML, CSS,
+JSP e Servlets. Para tanto, deve usar um servidor escrito em Java, que não é contêiner
+EJB, mas é utilizado como servlet container, denominado
+A - GlassFish.
+B - JBoss.
+C - WebLogic.
+D - Jetty.
+E - WebSphere.
+
+resposta - D
